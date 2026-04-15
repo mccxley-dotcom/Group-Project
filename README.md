@@ -7,7 +7,7 @@
 | Field          | Details                        |
 |----------------|-------------------------------|
 | Full Name      | [ Nicholas Redwood, Ronald Brown, McCauley McIntosh         |
-| Student ID     | [ 2210210, ,2403221            |
+| Student ID     | [ 2210210, 2304768 ,2403221            |
 | Course Code    | CNS1001 - Introduction to Programming |
 
 
